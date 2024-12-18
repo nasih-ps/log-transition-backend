@@ -294,30 +294,30 @@ catalog_data = [
 
 subcatalog_data = [
     {"catalog_id": 1, "sub_catalog_name": "Alert and Monitoring", "service_level": "Level 1", "service_type_id": 4},
-    {"catalog_id": 1, "sub_catalog_name": "User Support", "service_level": "Level 1", "service_type_id": 8},
-    {"catalog_id": 1, "sub_catalog_name": "Service Request", "service_level": "Level 2", "service_type_id": 7},
-    {"catalog_id": 1, "sub_catalog_name": "Production Support", "service_level": "Level 2", "service_type_id": 6},
-    {"catalog_id": 1, "sub_catalog_name": "Maintenance", "service_level": "Level 2", "service_type_id": 3},
-    {"catalog_id": 1, "sub_catalog_name": "Production Support", "service_level": "Level 3", "service_type_id": 6},
-    {"catalog_id": 1, "sub_catalog_name": "Problem Detection and Resolution", "service_level": "Level 3", "service_type_id": 2},
-    {"catalog_id": 1, "sub_catalog_name": "Change Request and Approval", "service_level": "Level 1", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Change Request and Approval", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Change Request and Approval", "service_level": "Level 3", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Release Planning and Deployment", "service_level": "Level 1", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Release Planning and Deployment", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Release Planning and Deployment", "service_level": "Level 3", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Configuration Identification & Control", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Knowledge Curation and Maintenance", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Manage resource utilization and performance", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Define and monitor availability requirements", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Define and Manage Service Levels", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Perform Service Improvement", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Forecast Service Demand", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Manage Security Risk", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Ensure Service Continuity and Recovery", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Manage Service Portfolio", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Manage IT Financial Resources", "service_level": "Level 2", "service_type_id": 1},
-    {"catalog_id": 1, "sub_catalog_name": "Maintain Business Partnerships", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 2, "sub_catalog_name": "User Support", "service_level": "Level 1", "service_type_id": 8},
+    {"catalog_id": 2, "sub_catalog_name": "Service Request", "service_level": "Level 2", "service_type_id": 7},
+    {"catalog_id": 2, "sub_catalog_name": "Production Support", "service_level": "Level 2", "service_type_id": 6},
+    {"catalog_id": 2, "sub_catalog_name": "Maintenance", "service_level": "Level 2", "service_type_id": 3},
+    {"catalog_id": 2, "sub_catalog_name": "Production Support", "service_level": "Level 3", "service_type_id": 6},
+    {"catalog_id": 2, "sub_catalog_name": "Problem Detection and Resolution", "service_level": "Level 3", "service_type_id": 2},
+    {"catalog_id": 4, "sub_catalog_name": "Change Request and Approval", "service_level": "Level 1", "service_type_id": 1},
+    {"catalog_id": 4, "sub_catalog_name": "Change Request and Approval", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 4, "sub_catalog_name": "Change Request and Approval", "service_level": "Level 3", "service_type_id": 1},
+    {"catalog_id": 4, "sub_catalog_name": "Release Planning and Deployment", "service_level": "Level 1", "service_type_id": 1},
+    {"catalog_id": 4, "sub_catalog_name": "Release Planning and Deployment", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 4, "sub_catalog_name": "Release Planning and Deployment", "service_level": "Level 3", "service_type_id": 1},
+    {"catalog_id": 6, "sub_catalog_name": "Configuration Identification & Control", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 7, "sub_catalog_name": "Knowledge Curation and Maintenance", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 8, "sub_catalog_name": "Manage resource utilization and performance", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 9, "sub_catalog_name": "Define and monitor availability requirements", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 10, "sub_catalog_name": "Define and Manage Service Levels", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 10, "sub_catalog_name": "Perform Service Improvement", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 12, "sub_catalog_name": "Forecast Service Demand", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 13, "sub_catalog_name": "Manage Security Risk", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 14, "sub_catalog_name": "Ensure Service Continuity and Recovery", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 15, "sub_catalog_name": "Manage Service Portfolio", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 16, "sub_catalog_name": "Manage IT Financial Resources", "service_level": "Level 2", "service_type_id": 1},
+    {"catalog_id": 17, "sub_catalog_name": "Maintain Business Partnerships", "service_level": "Level 2", "service_type_id": 1},
 ]
 
 ###############
@@ -641,6 +641,23 @@ async def get_specific_subcatalog(subcatalog_id: int, db: Session = Depends(get_
         raise HTTPException(status_code=404, detail="Subcatalog not found")
     
     return db_subcatalog
+
+#get parent catalog's details
+@router.get("/catalog/subcatalog/{subcatalog_id}", response_model=CatalogResponse)
+async def get_catalog_by_subcatalog(subcatalog_id: int, db: Session = Depends(get_db)):
+    # First, find the subcatalog
+    db_subcatalog = db.query(SubCatalog).filter(SubCatalog.id == subcatalog_id).first()
+    
+    if not db_subcatalog:
+        raise HTTPException(status_code=404, detail="Subcatalog not found")
+    
+    # Retrieve the corresponding catalog using the catalog_id from the subcatalog
+    db_catalog = db.query(Catalog).filter(Catalog.id == db_subcatalog.catalog_id).first()
+    
+    if not db_catalog:
+        raise HTTPException(status_code=404, detail="Catalog not found")
+    
+    return db_catalog
 
 @router.put("/subcatalog/{subcatalog_id}", response_model=SubCatalogResponse)
 async def update_subcatalog(subcatalog_id: int, subcatalog: SubCatalogCreate, db: Session = Depends(get_db)):
