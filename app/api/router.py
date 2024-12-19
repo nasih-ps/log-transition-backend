@@ -20,6 +20,9 @@ from langchain.prompts import ChatPromptTemplate
 from langchain.schema.runnable import RunnableParallel, RunnableLambda
 from langchain.schema.output_parser import StrOutputParser
 
+from sqlalchemy.orm import joinedload
+
+
 router = APIRouter()
 
 # Database Configuration
@@ -1043,3 +1046,5 @@ def get_subcatalogs_timeline(request: TimelineRequest, db: Session = Depends(get
 
     except RuntimeError as e:
         raise HTTPException(status_code=500, detail=str(e))
+    
+#####################
